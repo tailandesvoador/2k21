@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://tailandesvoador.github.io/2k21/sitemap.xml

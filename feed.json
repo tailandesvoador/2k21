@@ -1,0 +1,69 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "teste",
+    "description": "",
+    "home_page_url": "https://tailandesvoador.github.io/2k21",
+    "feed_url": "https://tailandesvoador.github.io/2k21/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "tester"
+    },
+    "items": [
+        {
+            "id": "https://tailandesvoador.github.io/2k21/8yuikyuiuyiuygi.html",
+            "url": "https://tailandesvoador.github.io/2k21/8yuikyuiuyiuygi.html",
+            "title": "8yuikyuiuyiuygi",
+            "summary": " ;l;lk;l;l;;;jgikhj ",
+            "content_html": "\n  <p>\n    ;l;lk;l;l;;;jgikhj\n  </p>",
+            "author": {
+                "name": "tester"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-12-31T05:34:00+07:00",
+            "date_modified": "2020-12-31T05:34:00+07:00"
+        },
+        {
+            "id": "https://tailandesvoador.github.io/2k21/uikuopjklljkljlkljk.html",
+            "url": "https://tailandesvoador.github.io/2k21/uikuopjklljkljlkljk.html",
+            "title": "uikuopjklljkljlkljk",
+            "summary": " =90-oiopjio ",
+            "content_html": "\n  <p>\n    =90-oiopjio\n  </p>",
+            "author": {
+                "name": "tester"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-12-29T06:02:38+07:00",
+            "date_modified": "2020-12-29T06:04:15+07:00"
+        },
+        {
+            "id": "https://tailandesvoador.github.io/2k21/absurdo-tudo.html",
+            "url": "https://tailandesvoador.github.io/2k21/absurdo-tudo.html",
+            "title": "absurdo tudo",
+            "summary": " Deus em todo lugar cris Ablardas dfsdfsdfsfdfdfdsfdsfdsfdsfdfdsfdsfd sdf dsf sdf dsf dsf dsf sd dfsfsdffsdfsfdsfffsdfdsfsdfdsf ",
+            "content_html": "\n    <figure class=\"blockquote\">\n      <blockquote>Deus em todo lugar</blockquote>\n      <figcaption>cris</figcaption>\n    </figure>\n\n    <h2 id=\"ablardas\">\n      Ablardas\n    </h2>\n\n  <p>\n    dfsdfsdfsfdfdfdsfdsfdsfdsfdfdsfdsfd sdf dsf sdf dsf dsf dsf sd\n  </p>\n\n  <p>\n    dfsfsdffsdfsfdsfffsdfdsfsdfdsf\n  </p>\n\n    <figure class=\"post__image post__image--full\">\n      <img loading=\"lazy\" src=\"https://tailandesvoador.github.io/2k21/media/posts/2/RUSTVIDE07.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://tailandesvoador.github.io/2k21/media/posts/2/responsive/RUSTVIDE07-xs.jpg 300w ,https://tailandesvoador.github.io/2k21/media/posts/2/responsive/RUSTVIDE07-sm.jpg 480w ,https://tailandesvoador.github.io/2k21/media/posts/2/responsive/RUSTVIDE07-md.jpg 768w ,https://tailandesvoador.github.io/2k21/media/posts/2/responsive/RUSTVIDE07-lg.jpg 1024w ,https://tailandesvoador.github.io/2k21/media/posts/2/responsive/RUSTVIDE07-xl.jpg 1360w ,https://tailandesvoador.github.io/2k21/media/posts/2/responsive/RUSTVIDE07-2xl.jpg 1600w\"  height=\"1080\" width=\"1920\" alt=\"\" />\n      \n    </figure>",
+            "author": {
+                "name": "tester"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-12-29T04:18:46+07:00",
+            "date_modified": "2020-12-29T04:18:46+07:00"
+        },
+        {
+            "id": "https://tailandesvoador.github.io/2k21/meu-primeiro-post.html",
+            "url": "https://tailandesvoador.github.io/2k21/meu-primeiro-post.html",
+            "title": "Meu primeiro post",
+            "summary": "vamos colocar uma imagem",
+            "content_html": "<blockquote>\n<p>vamos colocar uma imagem<figure class=\"post__image post__image--left\"><img loading=\"lazy\"  src=\"https://tailandesvoador.github.io/2k21/media/posts/1/RUSTVIDE07.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://tailandesvoador.github.io/2k21/media/posts/1/responsive/RUSTVIDE07-xs.jpg 300w ,https://tailandesvoador.github.io/2k21/media/posts/1/responsive/RUSTVIDE07-sm.jpg 480w ,https://tailandesvoador.github.io/2k21/media/posts/1/responsive/RUSTVIDE07-md.jpg 768w ,https://tailandesvoador.github.io/2k21/media/posts/1/responsive/RUSTVIDE07-lg.jpg 1024w ,https://tailandesvoador.github.io/2k21/media/posts/1/responsive/RUSTVIDE07-xl.jpg 1360w ,https://tailandesvoador.github.io/2k21/media/posts/1/responsive/RUSTVIDE07-2xl.jpg 1600w\"  alt=\"\" width=\"357\" height=\"201\"></figure>\n</blockquote>",
+            "author": {
+                "name": "tester"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-12-29T02:52:06+07:00",
+            "date_modified": "2020-12-29T04:14:59+07:00"
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>teste</title>
+    <link href="https://tailandesvoador.github.io/2k21/feed.xml" rel="self" />
+    <link href="https://tailandesvoador.github.io/2k21" />
+    <updated>2020-12-31T05:34:00+07:00</updated>
+    <author>
+        <name>tester</name>
+    </author>
+    <id>https://tailandesvoador.github.io/2k21</id>
+
+    <entry>
+        <title>8yuikyuiuyiuygi</title>
+        <author>
+            <name>tester</name>
+        </author>
+        <link href="https://tailandesvoador.github.io/2k21/8yuikyuiuyiuygi.html"/>
+        <id>https://tailandesvoador.github.io/2k21/8yuikyuiuyiuygi.html</id>
+
+        <updated>2020-12-31T05:34:00+07:00</updated>
+            <summary>
+                <![CDATA[
+                     ;l;lk;l;l;;;jgikhj 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    ;l;lk;l;l;;;jgikhj
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>uikuopjklljkljlkljk</title>
+        <author>
+            <name>tester</name>
+        </author>
+        <link href="https://tailandesvoador.github.io/2k21/uikuopjklljkljlkljk.html"/>
+        <id>https://tailandesvoador.github.io/2k21/uikuopjklljkljlkljk.html</id>
+
+        <updated>2020-12-29T06:04:15+07:00</updated>
+            <summary>
+                <![CDATA[
+                     =90-oiopjio 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    =90-oiopjio
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>absurdo tudo</title>
+        <author>
+            <name>tester</name>
+        </author>
+        <link href="https://tailandesvoador.github.io/2k21/absurdo-tudo.html"/>
+        <id>https://tailandesvoador.github.io/2k21/absurdo-tudo.html</id>
+
+        <updated>2020-12-29T04:18:46+07:00</updated>
+            <summary>
+                <![CDATA[
+                     Deus em todo lugar cris Ablardas dfsdfsdfsfdfdfdsfdsfdsfdsfdfdsfdsfd sdf dsf sdf dsf dsf dsf sd dfsfsdffsdfsfdsfffsdfdsfsdfdsf 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+    <figure class="blockquote">
+      <blockquote>Deus em todo lugar</blockquote>
+      <figcaption>cris</figcaption>
+    </figure>
+
+    <h2 id="ablardas">
+      Ablardas
+    </h2>
+
+  <p>
+    dfsdfsdfsfdfdfdsfdsfdsfdsfdfdsfdsfd sdf dsf sdf dsf dsf dsf sd
+  </p>
+
+  <p>
+    dfsfsdffsdfsfdsfffsdfdsfsdfdsf
+  </p>
+
+    <figure class="post__image post__image--full">
+      <img loading="lazy" src="https://tailandesvoador.github.io/2k21/media/posts/2/RUSTVIDE07.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://tailandesvoador.github.io/2k21/media/posts/2/responsive/RUSTVIDE07-xs.jpg 300w ,https://tailandesvoador.github.io/2k21/media/posts/2/responsive/RUSTVIDE07-sm.jpg 480w ,https://tailandesvoador.github.io/2k21/media/posts/2/responsive/RUSTVIDE07-md.jpg 768w ,https://tailandesvoador.github.io/2k21/media/posts/2/responsive/RUSTVIDE07-lg.jpg 1024w ,https://tailandesvoador.github.io/2k21/media/posts/2/responsive/RUSTVIDE07-xl.jpg 1360w ,https://tailandesvoador.github.io/2k21/media/posts/2/responsive/RUSTVIDE07-2xl.jpg 1600w"  height="1080" width="1920" alt="" />
+      
+    </figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Meu primeiro post</title>
+        <author>
+            <name>tester</name>
+        </author>
+        <link href="https://tailandesvoador.github.io/2k21/meu-primeiro-post.html"/>
+        <id>https://tailandesvoador.github.io/2k21/meu-primeiro-post.html</id>
+
+        <updated>2020-12-29T04:14:59+07:00</updated>
+            <summary>
+                <![CDATA[
+                    vamos colocar uma imagem
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <blockquote>
+<p>vamos colocar uma imagem<figure class="post__image post__image--left"><img loading="lazy"  src="https://tailandesvoador.github.io/2k21/media/posts/1/RUSTVIDE07.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://tailandesvoador.github.io/2k21/media/posts/1/responsive/RUSTVIDE07-xs.jpg 300w ,https://tailandesvoador.github.io/2k21/media/posts/1/responsive/RUSTVIDE07-sm.jpg 480w ,https://tailandesvoador.github.io/2k21/media/posts/1/responsive/RUSTVIDE07-md.jpg 768w ,https://tailandesvoador.github.io/2k21/media/posts/1/responsive/RUSTVIDE07-lg.jpg 1024w ,https://tailandesvoador.github.io/2k21/media/posts/1/responsive/RUSTVIDE07-xl.jpg 1360w ,https://tailandesvoador.github.io/2k21/media/posts/1/responsive/RUSTVIDE07-2xl.jpg 1600w"  alt="" width="357" height="201"></figure>
+</blockquote>
+            ]]>
+        </content>
+    </entry>
+</feed>
